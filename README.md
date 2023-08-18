@@ -15,10 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kapuchino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kapuchino" height="30" width="40" /></a>
-<a href="https://codesandbox.com/__69kapuchino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="__69kapuchino" height="30" width="40" /></a>
-<a href="https://hashnode.com/69kapuchino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="69kapuchino" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@69kapuchino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@69kapuchino" height="30" width="40" /></a>
-<a href="https://discord.gg/936895793418350593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="936895793418350593" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/__69kapuchino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="__69kapuchino" height="30" width="40" /></a>
+<a href="https://hashnode.com/@69KaPuChiNo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="69kapuchino" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/69KaPuChiNo?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@69kapuchino" height="30" width="40" /></a>
+<a href="https://discordid.netlify.app/?id=936895793418350593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="936895793418350593" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
