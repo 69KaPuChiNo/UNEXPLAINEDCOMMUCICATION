@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm 69KaPuChiNo</h1>
 <h3 align="center">Beginner developer</h3>
-img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif"
+<img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=69kapuchino&label=Profile%20views&color=0e75b6&style=flat" alt="69kapuchino" /> </p>
 
